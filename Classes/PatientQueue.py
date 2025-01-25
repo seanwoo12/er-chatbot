@@ -1,4 +1,5 @@
 import Queue
+import Patient
 class PatientQueue(Queue):
     def __init__(self):
         self._queues = [[] for _ in range(5)]
@@ -16,10 +17,10 @@ class PatientQueue(Queue):
                 return self._queues[severity].pop(0)
         return None
 
-    def get_position(self, Patient):
+    def get_position(self, patientt: Patient):
         for severity, queue in enumerate(self._queues, start=1):
             for position, patient in enumerate(queue):
-                if patient.name == name:
+                if patient.name == patientt.name:
                     return severity, position + 1
         return None
 
