@@ -1,6 +1,8 @@
 class Patient:
-    self.name = name
-    self.triage = triage
+    """
+    """
+    name: str
+    triage: int
 
     def __init__(self, name, triage):
         self.name = name
