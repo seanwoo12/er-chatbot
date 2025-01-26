@@ -1,0 +1,133 @@
+.start-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.start-page .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 886px;
+  position: relative;
+}
+
+.start-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 697px;
+  top: 189px;
+  left: 0;
+  background-image: url(./img/vectorstartpage.png);
+  background-size: 100% 100%;
+}
+
+.start-page .text-wrapper {
+  position: absolute;
+  width: 1108px;
+  top: 9px;
+  left: 80px;
+  opacity: 0.9;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.start-page .sign-in-button {
+  position: absolute;
+  width: 288px;
+  height: 82px;
+  top: 490px;
+  left: 1053px;
+}
+
+.start-page .overlap-group {
+  position: relative;
+  width: 286px;
+  height: 82px;
+}
+
+.start-page .text-wrapper-2 {
+  position: absolute;
+  width: 220px;
+  top: 5px;
+  left: 0;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.start-page .frame {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  top: 0;
+  left: 204px;
+}
+
+.start-page .text-wrapper-3 {
+  position: absolute;
+  width: 168px;
+  top: 52px;
+  left: 1192px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.start-page .text-wrapper-4 {
+  position: absolute;
+  width: 166px;
+  top: 52px;
+  left: 997px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.start-page .logo {
+  position: absolute;
+  width: 214px;
+  top: 35px;
+  left: 101px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 115, 4) 25.78%,
+    rgb(117, 148, 252) 80%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Lexend", Helvetica;
+  font-weight: 800;
+  color: transparent;
+  font-size: 36px;
+  line-height: normal;
+}
+
+.start-page .span {
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.start-page .text-wrapper-5 {
+  color: #000000;
+  letter-spacing: 0.26px;
+}

@@ -1,0 +1,513 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2259px;
+  position: relative;
+}
+
+.home-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1247px;
+  top: 35px;
+  left: 0;
+}
+
+.home-page .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1230px;
+  top: 17px;
+  left: 0;
+}
+
+.home-page .background-page {
+  position: absolute;
+  width: 1440px;
+  height: 980px;
+  top: 40px;
+  left: 0;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgb(252, 200, 159) 2.16%,
+    rgba(255, 255, 255, 0.8) 35.59%,
+    rgba(221.07, 236.49, 250.23, 0.86) 43.44%,
+    rgb(252, 200, 159) 76.77%,
+    rgb(70.36, 134.49, 190.6) 100%
+  );
+  opacity: 0.8;
+}
+
+.home-page .main-form-vector {
+  position: absolute;
+  width: 1440px;
+  height: 839px;
+  top: 391px;
+  left: 0;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  width: 1108px;
+  top: 146px;
+  left: 80px;
+  opacity: 0.9;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  width: 166px;
+  top: 0;
+  left: 997px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .start-a-conversation {
+  position: absolute;
+  width: 830px;
+  top: 100px;
+  left: 82px;
+  font-family: "Source Sans Pro", Helvetica;
+  font-weight: 400;
+  color: #3f3b3b;
+  font-size: 36.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .span {
+  font-family: "Source Sans Pro", Helvetica;
+  font-weight: 400;
+  color: #3f3b3b;
+  font-size: 36.7px;
+  letter-spacing: 0;
+}
+
+.home-page .text-wrapper-3 {
+  font-size: 39px;
+}
+
+.home-page .group {
+  position: absolute;
+  width: 116px;
+  height: 116px;
+  top: 590px;
+  left: 1217px;
+}
+
+.home-page .overlap-2 {
+  position: relative;
+  height: 116px;
+  border-radius: 58px;
+}
+
+.home-page .circle-bot {
+  position: absolute;
+  width: 116px;
+  height: 116px;
+  top: 0;
+  left: 0;
+  background-color: #1d3eaf;
+  border-radius: 58px;
+  opacity: 0.9;
+}
+
+.home-page .bot-logo {
+  position: absolute;
+  width: 60px;
+  height: 81px;
+  top: 14px;
+  left: 28px;
+}
+
+.home-page .chat-ai {
+  position: absolute;
+  width: 373px;
+  height: 90px;
+  top: 537px;
+  left: 880px;
+}
+
+.home-page .hey-there-my-name-is-wrapper {
+  position: relative;
+  width: 371px;
+  height: 90px;
+  background-color: #ffffff;
+  border-radius: 18px;
+}
+
+.home-page .hey-there-my-name-is {
+  position: absolute;
+  width: 333px;
+  top: 14px;
+  left: 13px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 300;
+  color: #0b1d3f;
+  font-size: 19.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-wrapper {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 526px;
+  left: 1233px;
+}
+
+.home-page .notification-wrapper {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-color: #fc1818;
+  border-radius: 12px;
+}
+
+.home-page .notification {
+  position: absolute;
+  width: 8px;
+  top: 4px;
+  left: 9px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-4 {
+  position: absolute;
+  width: 168px;
+  top: 17px;
+  left: 1192px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .logo {
+  position: absolute;
+  width: 214px;
+  top: 0;
+  left: 101px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 115, 4) 25.78%,
+    rgb(117, 148, 252) 80%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Lexend", Helvetica;
+  font-weight: 800;
+  color: transparent;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-3 {
+  position: absolute;
+  width: 1354px;
+  height: 895px;
+  top: 1364px;
+  left: 86px;
+}
+
+.home-page .overlap-4 {
+  position: absolute;
+  width: 1354px;
+  height: 895px;
+  top: 0;
+  left: 0;
+}
+
+.home-page .overlap-5 {
+  position: absolute;
+  width: 1354px;
+  height: 754px;
+  top: 141px;
+  left: 0;
+}
+
+.home-page .vector-orange-end {
+  position: absolute;
+  width: 1354px;
+  height: 705px;
+  top: 49px;
+  left: 0;
+}
+
+.home-page .box-question {
+  width: 453px;
+  height: 53px;
+  top: 0;
+  position: absolute;
+  left: 644px;
+}
+
+.home-page .overlap-6 {
+  position: relative;
+  width: 451px;
+  height: 53px;
+}
+
+.home-page .rectangle {
+  width: 451px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #b2d5f5;
+  border-radius: 13px;
+  opacity: 0.2;
+}
+
+.home-page .p {
+  position: absolute;
+  width: 394px;
+  top: 14px;
+  left: 19px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 18.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-group-wrapper {
+  width: 415px;
+  height: 53px;
+  top: 69px;
+  position: absolute;
+  left: 644px;
+}
+
+.home-page .overlap-7 {
+  position: relative;
+  width: 413px;
+  height: 53px;
+}
+
+.home-page .rectangle-2 {
+  width: 374px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #b2d5f5;
+  border-radius: 13px;
+  opacity: 0.2;
+}
+
+.home-page .div-wrapper {
+  width: 538px;
+  height: 53px;
+  top: 138px;
+  position: absolute;
+  left: 644px;
+}
+
+.home-page .overlap-8 {
+  position: relative;
+  width: 536px;
+  height: 53px;
+}
+
+.home-page .rectangle-3 {
+  width: 523px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #b2d5f5;
+  border-radius: 13px;
+  opacity: 0.2;
+}
+
+.home-page .text-wrapper-5 {
+  position: absolute;
+  width: 517px;
+  top: 14px;
+  left: 19px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 18.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-9 {
+  position: absolute;
+  width: 454px;
+  height: 145px;
+  top: 0;
+  left: 51px;
+}
+
+.home-page .question-text {
+  position: absolute;
+  width: 418px;
+  height: 114px;
+  top: 0;
+  left: 36px;
+}
+
+.home-page .any-questions-we-got {
+  position: absolute;
+  width: 416px;
+  top: 0;
+  left: 0;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 48px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-6 {
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 48px;
+  letter-spacing: 0;
+}
+
+.home-page .text-wrapper-7 {
+  font-size: 32px;
+}
+
+.home-page .group-2 {
+  position: absolute;
+  width: 454px;
+  height: 39px;
+  top: 106px;
+  left: 0;
+}
+
+.home-page .text-wrapper-8 {
+  position: absolute;
+  width: 452px;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro", Helvetica;
+  font-weight: 400;
+  color: #3f3b3b;
+  font-size: 22.7px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .more-FA-qs-button {
+  position: absolute;
+  width: 111px;
+  top: 150px;
+  left: 380px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #1d3eb0;
+  font-size: 18.3px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .box-question-2 {
+  width: 433px;
+  height: 56px;
+  top: 0;
+  position: absolute;
+  left: 644px;
+}
+
+.home-page .overlap-group-2 {
+  position: relative;
+  width: 431px;
+  height: 56px;
+}
+
+.home-page .rectangle-4 {
+  width: 431px;
+  position: absolute;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #b2d5f5;
+  border-radius: 13px;
+  opacity: 0.2;
+}
+
+.home-page .text-wrapper-9 {
+  position: absolute;
+  width: 394px;
+  top: 17px;
+  left: 19px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 18.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .box-question-3 {
+  width: 433px;
+  height: 54px;
+  top: 69px;
+  position: absolute;
+  left: 644px;
+}
+
+.home-page .overlap-10 {
+  position: relative;
+  width: 431px;
+  height: 54px;
+}
+
+.home-page .text-wrapper-10 {
+  position: absolute;
+  width: 394px;
+  top: 15px;
+  left: 19px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #0b1d3f;
+  font-size: 18.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
