@@ -1,0 +1,26 @@
+arrival_time,id,queue_position,status,time_elapsed,triage_category
+2025-01-25T20:51:45.089334,anon_2327,"{'category': 4, 'global': 6}",{'current_phase': 'triaged'},280,5
+2025-01-25T22:30:45.089593,anon_5584,"{'category': 1, 'global': 9}",{'current_phase': 'triaged'},181,4
+2025-01-25T23:10:45.089679,anon_2211,"{'category': 1, 'global': 17}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",141,4
+2025-01-25T23:24:45.089581,anon_3091,"{'category': 4, 'global': 7}","{'current_phase': 'admitted', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",127,5
+2025-01-25T23:38:45.089557,anon_5509,"{'category': 4, 'global': 4}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",113,3
+2025-01-25T23:51:45.089627,anon_6494,"{'category': 1, 'global': 18}",{'current_phase': 'registered'},100,3
+2025-01-25T23:55:45.089614,anon_6193,"{'category': 3, 'global': 15}","{'current_phase': 'investigations_pending', 'investigations': {'imaging': 'ordered', 'labs': 'pending'}}",96,3
+2025-01-25T23:57:45.089381,anon_7966,"{'category': 1, 'global': 20}",{'current_phase': 'registered'},94,3
+2025-01-26T00:00:45.089435,anon_9434,"{'category': 5, 'global': 19}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",91,4
+2025-01-26T00:07:45.089365,anon_2940,"{'category': 1, 'global': 17}","{'current_phase': 'admitted', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",84,3
+2025-01-26T00:07:45.089394,anon_1674,"{'category': 1, 'global': 15}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",84,4
+2025-01-26T00:08:45.089669,anon_3991,"{'category': 3, 'global': 25}","{'current_phase': 'treatment', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",83,3
+2025-01-26T00:09:45.089542,anon_5548,"{'category': 2, 'global': 8}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",82,4
+2025-01-26T00:10:45.089603,anon_3119,"{'category': 3, 'global': 7}",{'current_phase': 'registered'},81,4
+2025-01-26T00:11:45.089458,anon_8836,"{'category': 5, 'global': 24}","{'current_phase': 'investigations_pending', 'investigations': {'imaging': 'ordered', 'labs': 'pending'}}",80,3
+2025-01-26T00:12:45.089407,anon_1456,"{'category': 5, 'global': 15}","{'current_phase': 'investigations_pending', 'investigations': {'imaging': 'pending', 'labs': 'ordered'}}",79,3
+2025-01-26T00:12:45.089482,anon_1265,"{'category': 5, 'global': 18}","{'current_phase': 'treatment', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",79,4
+2025-01-26T00:14:45.089569,anon_3420,"{'category': 1, 'global': 5}",{'current_phase': 'registered'},77,3
+2025-01-26T00:22:45.089659,anon_8819,"{'category': 1, 'global': 2}",{'current_phase': 'triaged'},69,3
+2025-01-26T00:23:45.089637,anon_6733,"{'category': 4, 'global': 13}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",68,3
+2025-01-26T00:27:45.089422,anon_2056,"{'category': 4, 'global': 12}",{'current_phase': 'triaged'},64,4
+2025-01-26T00:51:45.089447,anon_3888,"{'category': 3, 'global': 13}",{'current_phase': 'registered'},40,3
+2025-01-26T01:01:45.089648,anon_9862,"{'category': 2, 'global': 14}","{'current_phase': 'discharged', 'investigations': {'imaging': 'reported', 'labs': 'reported'}}",30,2
+2025-01-26T01:04:45.089494,anon_5316,"{'category': 4, 'global': 17}",{'current_phase': 'triaged'},27,2
+2025-01-26T01:09:45.089471,anon_2801,"{'category': 2, 'global': 8}",{'current_phase': 'triaged'},22,2

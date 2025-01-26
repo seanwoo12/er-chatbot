@@ -1,0 +1,387 @@
+{
+  "longestWaitTime": 280,
+  "patients": [
+    {
+      "arrival_time": "2025-01-25T20:51:45.089334",
+      "id": "anon_2327",
+      "queue_position": {
+        "category": 4,
+        "global": 6
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 280,
+      "triage_category": 5
+    },
+    {
+      "arrival_time": "2025-01-25T22:30:45.089593",
+      "id": "anon_5584",
+      "queue_position": {
+        "category": 1,
+        "global": 9
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 181,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-25T23:10:45.089679",
+      "id": "anon_2211",
+      "queue_position": {
+        "category": 1,
+        "global": 17
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 141,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-25T23:24:45.089581",
+      "id": "anon_3091",
+      "queue_position": {
+        "category": 4,
+        "global": 7
+      },
+      "status": {
+        "current_phase": "admitted",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 127,
+      "triage_category": 5
+    },
+    {
+      "arrival_time": "2025-01-25T23:38:45.089557",
+      "id": "anon_5509",
+      "queue_position": {
+        "category": 4,
+        "global": 4
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 113,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-25T23:51:45.089627",
+      "id": "anon_6494",
+      "queue_position": {
+        "category": 1,
+        "global": 18
+      },
+      "status": {
+        "current_phase": "registered"
+      },
+      "time_elapsed": 100,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-25T23:55:45.089614",
+      "id": "anon_6193",
+      "queue_position": {
+        "category": 3,
+        "global": 15
+      },
+      "status": {
+        "current_phase": "investigations_pending",
+        "investigations": {
+          "imaging": "ordered",
+          "labs": "pending"
+        }
+      },
+      "time_elapsed": 96,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-25T23:57:45.089381",
+      "id": "anon_7966",
+      "queue_position": {
+        "category": 1,
+        "global": 20
+      },
+      "status": {
+        "current_phase": "registered"
+      },
+      "time_elapsed": 94,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:00:45.089435",
+      "id": "anon_9434",
+      "queue_position": {
+        "category": 5,
+        "global": 19
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 91,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:07:45.089365",
+      "id": "anon_2940",
+      "queue_position": {
+        "category": 1,
+        "global": 17
+      },
+      "status": {
+        "current_phase": "admitted",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 84,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:07:45.089394",
+      "id": "anon_1674",
+      "queue_position": {
+        "category": 1,
+        "global": 15
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 84,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:08:45.089669",
+      "id": "anon_3991",
+      "queue_position": {
+        "category": 3,
+        "global": 25
+      },
+      "status": {
+        "current_phase": "treatment",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 83,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:09:45.089542",
+      "id": "anon_5548",
+      "queue_position": {
+        "category": 2,
+        "global": 8
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 82,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:10:45.089603",
+      "id": "anon_3119",
+      "queue_position": {
+        "category": 3,
+        "global": 7
+      },
+      "status": {
+        "current_phase": "registered"
+      },
+      "time_elapsed": 81,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:11:45.089458",
+      "id": "anon_8836",
+      "queue_position": {
+        "category": 5,
+        "global": 24
+      },
+      "status": {
+        "current_phase": "investigations_pending",
+        "investigations": {
+          "imaging": "ordered",
+          "labs": "pending"
+        }
+      },
+      "time_elapsed": 80,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:12:45.089407",
+      "id": "anon_1456",
+      "queue_position": {
+        "category": 5,
+        "global": 15
+      },
+      "status": {
+        "current_phase": "investigations_pending",
+        "investigations": {
+          "imaging": "pending",
+          "labs": "ordered"
+        }
+      },
+      "time_elapsed": 79,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:12:45.089482",
+      "id": "anon_1265",
+      "queue_position": {
+        "category": 5,
+        "global": 18
+      },
+      "status": {
+        "current_phase": "treatment",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 79,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:14:45.089569",
+      "id": "anon_3420",
+      "queue_position": {
+        "category": 1,
+        "global": 5
+      },
+      "status": {
+        "current_phase": "registered"
+      },
+      "time_elapsed": 77,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:22:45.089659",
+      "id": "anon_8819",
+      "queue_position": {
+        "category": 1,
+        "global": 2
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 69,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:23:45.089637",
+      "id": "anon_6733",
+      "queue_position": {
+        "category": 4,
+        "global": 13
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 68,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T00:27:45.089422",
+      "id": "anon_2056",
+      "queue_position": {
+        "category": 4,
+        "global": 12
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 64,
+      "triage_category": 4
+    },
+    {
+      "arrival_time": "2025-01-26T00:51:45.089447",
+      "id": "anon_3888",
+      "queue_position": {
+        "category": 3,
+        "global": 13
+      },
+      "status": {
+        "current_phase": "registered"
+      },
+      "time_elapsed": 40,
+      "triage_category": 3
+    },
+    {
+      "arrival_time": "2025-01-26T01:01:45.089648",
+      "id": "anon_9862",
+      "queue_position": {
+        "category": 2,
+        "global": 14
+      },
+      "status": {
+        "current_phase": "discharged",
+        "investigations": {
+          "imaging": "reported",
+          "labs": "reported"
+        }
+      },
+      "time_elapsed": 30,
+      "triage_category": 2
+    },
+    {
+      "arrival_time": "2025-01-26T01:04:45.089494",
+      "id": "anon_5316",
+      "queue_position": {
+        "category": 4,
+        "global": 17
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 27,
+      "triage_category": 2
+    },
+    {
+      "arrival_time": "2025-01-26T01:09:45.089471",
+      "id": "anon_2801",
+      "queue_position": {
+        "category": 2,
+        "global": 8
+      },
+      "status": {
+        "current_phase": "triaged"
+      },
+      "time_elapsed": 22,
+      "triage_category": 2
+    }
+  ],
+  "waitingCount": 25
+}
