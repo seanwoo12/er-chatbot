@@ -1,0 +1,143 @@
+.sign-in-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-in-page .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 886px;
+  position: relative;
+}
+
+.sign-in-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 784px;
+  top: 102px;
+  left: 0;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 2.16%,
+    rgba(255, 255, 255, 0.8) 35.59%,
+    rgba(221.07, 236.49, 250.23, 0.86) 62.5%,
+    rgb(252, 200, 159) 88.7%,
+    rgb(70.36, 134.49, 190.6) 100%
+  );
+}
+
+.sign-in-page .vector-start-page {
+  position: absolute;
+  width: 1440px;
+  height: 697px;
+  top: 87px;
+  left: 0;
+}
+
+.sign-in-page .text-wrapper {
+  position: absolute;
+  width: 166px;
+  top: 355px;
+  left: 647px;
+  font-family: "Lexend", Helvetica;
+  font-weight: 700;
+  color: #033b6f;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-in-page .rectangle {
+  position: absolute;
+  width: 376px;
+  height: 60px;
+  top: 467px;
+  left: 542px;
+  background-color: #f4e0d1;
+  border-radius: 16px;
+  opacity: 0.6;
+  padding-left: 10px;
+  font-family: "Source Sans Pro", Helvetica;
+  font-weight: 400;
+  color: #3f3b3b;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  border: none;
+}
+
+.sign-in-page .next-button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 263px;
+  height: 82px;
+  top: 579px;
+  left: 625px;
+}
+
+.sign-in-page .overlap-group {
+  position: relative;
+  width: 261px;
+  height: 82px;
+}
+
+.sign-in-page .text-wrapper-3 {
+  position: absolute;
+  width: 220px;
+  top: 3px;
+  left: 0;
+  font-family: "Lexend", Helvetica;
+  font-weight: 500;
+  color: #033b6f;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sign-in-page .frame {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  top: 0;
+  left: 179px;
+}
+
+.sign-in-page .logo {
+  position: absolute;
+  width: 214px;
+  top: 35px;
+  left: 101px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 115, 4) 25.78%,
+    rgb(117, 148, 252) 80%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Lexend", Helvetica;
+  font-weight: 800;
+  color: transparent;
+  font-size: 36px;
+  line-height: normal;
+}
+
+.sign-in-page .span {
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.sign-in-page .text-wrapper-4 {
+  color: #000000;
+  letter-spacing: 0.26px;
+}
